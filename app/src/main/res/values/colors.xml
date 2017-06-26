@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6f7c91</color>
+    <color name="colorPrimaryDark">#454e5a</color>
+    <color name="colorAccent">#6f7c91</color>
+    <color name="neat">#6f7c91</color>
+    <color name="white">#ffffff</color>
+    <color name="pink">#ff00ff</color>
+    <color name="lightgreen">#88aa00</color>
+    <color name="saffron">#ff6600</color>
+    <color name="sequenceColor">#d4aa00</color>
+    <color name="equationColor">#008000</color>
+    <color name="shakeColor">#ff9752</color>
+    <color name="successGreen">#00d455</color>
+    <color name="failureRed">#ff5555</color>
+    <color name="lightSaffron">#ff9752</color>
+
+
+</resources>
